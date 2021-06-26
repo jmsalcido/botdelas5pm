@@ -1,4 +1,4 @@
-from twitter import *
+from twitter import Twitter, OAuth
 
 import urllib.request
 import random
